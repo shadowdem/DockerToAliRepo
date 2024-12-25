@@ -13,4 +13,5 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.17.0
 #docker.elastic.co/kibana/kibana:8.17.0
 wurstmeister/kafka:2.13-2.8.1
+wurstmeister/zookeeper
 
